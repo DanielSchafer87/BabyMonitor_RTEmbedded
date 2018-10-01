@@ -25,3 +25,9 @@ Sensor details:
    
    ## Activity Diagram 
    ![Activity Diagram](https://github.com/DanielSchafer87/BabyMonitor_RTEmbedded/blob/master/BabyMonitor_RTEmbedded/ActivityDiagram.png)
+   
+   ## Board Photos Including Sensors
+   ![Photo #1](https://github.com/DanielSchafer87/BabyMonitor_RTEmbedded/blob/master/BabyMonitor_RTEmbedded/4207209c-8c4b-40bc-b181-2fb2c344b7f2.jpg)
+   
+   ![Photo #2](https://github.com/DanielSchafer87/BabyMonitor_RTEmbedded/blob/master/BabyMonitor_RTEmbedded/8978a96c-c45c-4802-bd30-008c1576c38c.jpg)
+  
