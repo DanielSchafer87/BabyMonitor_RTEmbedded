@@ -22,3 +22,6 @@ Sensor details:
 4. GPIO - There are 2 buttons, which are marked on the board in SW2 and SW3.
    The SW2 - P15 button is used by us to turn off the LED light, which turns on when there is some warning from the system.
    The SW3 - P4 button is used by us to switch the system on and off.
+   
+   ## Activity Diagram 
+   ![Activity Diagram](https://github.com/DanielSchafer87/BabyMonitor_RTEmbedded/blob/master/BabyMonitor_RTEmbedded/ActivityDiagram.png)
